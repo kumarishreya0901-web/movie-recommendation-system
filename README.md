@@ -103,7 +103,13 @@ streamlit run app.py
 
 ### Recommendation Results
 
-*(Add another screenshot here)*
+<img width="997" height="656" alt="Screenshot 2026-07-15 003750" src="https://github.com/user-attachments/assets/2c90e22c-5fd0-4ac9-9176-b7dcf4a07b0d" />
+
+
+<img width="992" height="852" alt="Screenshot 2026-07-03 112013" src="https://github.com/user-attachments/assets/3de2abde-c855-4f8e-9193-5bd62e8e3604" />
+
+
+<img width="957" height="638" alt="Screenshot 2026-07-03 112100" src="https://github.com/user-attachments/assets/174e9663-9e7b-4a02-ac5f-5122d0c3f76d" />
 
 ---
 
