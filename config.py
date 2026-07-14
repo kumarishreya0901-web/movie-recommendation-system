@@ -1,0 +1,1 @@
+TMDB_API_KEY = "e5e5035dbf711ae0f985e863dca2252a"
