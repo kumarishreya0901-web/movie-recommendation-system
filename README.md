@@ -99,7 +99,7 @@ streamlit run app.py
 
 ### Home Page
 
-*(Add a screenshot here)*
+<img width="1066" height="772" alt="Screenshot 2026-07-03 111619" src="https://github.com/user-attachments/assets/0a0392b9-1173-418e-b8b8-174cabd72411" />
 
 ### Recommendation Results
 
