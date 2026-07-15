@@ -2,6 +2,10 @@
 
 An intelligent movie recommendation web application built using **Python**, **Streamlit**, and **Machine Learning**. The system recommends movies similar to the one selected by the user using **Content-Based Filtering** with **TF-IDF Vectorization** and **Cosine Similarity**.
 
+## 🎥 Project Demo
+
+🎬 **[Watch the Project Demo](https://drive.google.com/file/d/1qIxTqRWJxa0lqDBkf7R8-Oj-nrEEWqPp/view?usp=sharing)**
+
 ## 🚀 Live Demo
 
 **Streamlit App:** https://movie-recommendation-system-shreya.streamlit.app/
